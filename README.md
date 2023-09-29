@@ -26,6 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatrijeebu&show_icons=true&locale=en" alt="gayatrijeebu" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?gayatrijeebu=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?gayatrijeebu=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
