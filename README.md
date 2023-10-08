@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
-<h3 align="center">"Passionate DevOps Engineer | CI/CD Enthusiast | Kubernetes & Terraform Fanatic | AWS Adoration | Automating the world, one deployment at a time 🚀" </h3>
+<h3 align="center">"🚀 Passionate DevOps Engineer
+🔄 CI/CD Enthusiast, in every sphere
+🌟 Kubernetes and Terraform Fanatic, without fear
+☁️ AWS Adoration, to make clouds clear
+🤖 Automating the world, no mountain too high
+🌐 One deployment at a time, reach for the sky!" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrijeebu&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrijeebu" /> </p>
 
