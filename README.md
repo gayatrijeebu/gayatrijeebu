@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
 <h3 align="center">"🚀 DevOps Engineer with a passion,
-🛠️ CI/CD enthusiast in every fashion,
-🌐 Kubernetes and Terraform, my domain,
-☁️ AWS, I adore, it's my main,
+🛠️ AWS enthusiast in every fashion,
+🌐 Docker and Kubernetes, my domain,
+☁️ Terraform, I adore, it's my main,
 🤖 Automating the world, no need to mime,
 🚀 One deployment at a time, it's my prime." </h3>
 
